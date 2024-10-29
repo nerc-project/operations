@@ -18,3 +18,4 @@ How long will you need to query the metrics?
 How much data do you plan to collect?
 Which metrics do you need to observe?
 Also, NERC metrics data must remain in in NERC systems only. Were you planning on pulling metrics out of NERC for any reason (research data gathering, reports)?
+What is your NERC OpenShift project allocation name?
