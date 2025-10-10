@@ -3,7 +3,7 @@ name: Access to NERC OpenShift metrics and logs
 about: Access to NERC OpenShift metrics and logs
 title: "[OpenShift Metrics Access Request]"
 labels: ocp_metrics_access_request
-assignees: 'computate'
+assignees: computate
 
 ---
 
