@@ -3,7 +3,7 @@ name: RH BM Request
 about: Red Hat Bare Metal Request
 title: RH BM Request - <project name>
 labels: ''
-assignees: joachimweyl, hpdempsey
+assignees: hpdempsey, joachimweyl
 
 ---
 
