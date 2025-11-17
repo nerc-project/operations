@@ -1,6 +1,6 @@
 ---
-name: RH BM Request
-about: Red Hat Bare Metal Request
+name: RH BM Approval Process
+about: Red Hat Bare Metal Request and Approval
 title: RH BM Request - <project name>
 labels: ''
 assignees: hpdempsey, joachimweyl
@@ -8,6 +8,9 @@ assignees: hpdempsey, joachimweyl
 ---
 
 ## Motivation
+
+## PI Info
+Email:
 
 ## Lease time
 
@@ -19,3 +22,5 @@ FC830 - #
 V100 - #
 A100SXM4 - #
 H100SXM5 - #
+
+## Provision Location
