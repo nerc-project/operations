@@ -4,6 +4,7 @@ about: For Epics that only live in nerc-project Org
 title: ''
 labels: ''
 assignees: ''
+type: Epic
 
 ---
 
